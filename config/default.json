@@ -1,0 +1,8 @@
+{
+  "ServerConfig": {
+      "name": "translateJSON",
+      "port": 3000,
+      "googleTranslateAPIKey": "API Key"
+  }
+
+}
